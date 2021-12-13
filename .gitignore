@@ -1,0 +1,15 @@
+data/
+results/
+logs/
+lit/
+refdata/
+sandbox/
+misc/
+software/
+*sandbox*
+.Rproj.user
+reports/*_cache
+reports/*_files
+*html
+slurm-
+slurm-*
